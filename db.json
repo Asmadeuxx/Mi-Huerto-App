@@ -1,0 +1,22 @@
+ {
+    "plants": [
+      {
+        "id": 1,
+        "name": "spinach",
+        "thumbnail_url": "https://farm5.staticflickr.com/4468/37445770554_930c99da1e_q.jpg",
+        "category_id" : "1"
+      },
+      {
+        "id": 2,
+        "name": "cherry tomato",
+        "thumbnail_url": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/57073ec44a3af70003000008.jpg?1460092609",
+        "category_id" : "2"
+      },
+      {
+        "id": 3,
+        "name": "potato",
+        "thumbnail_url": "https://s3.amazonaws.com/openfarm-project/production/media/pictures/attachments/551dbd5d3732390003620100.jpg?1428012380",
+        "category_id" : "3"
+      }
+    ]
+  }
