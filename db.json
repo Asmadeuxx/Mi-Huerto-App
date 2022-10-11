@@ -2,7 +2,7 @@
     "plants": [
       {
         "id": 1,
-        "name": "spinach",
+        "name": {StringsOfLanguages.namePlant1},
         "thumbnail_url": "https://farm5.staticflickr.com/4468/37445770554_930c99da1e_q.jpg",
         "category_id" : "1"
       },
