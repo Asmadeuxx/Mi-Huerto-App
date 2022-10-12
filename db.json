@@ -5,6 +5,7 @@
         "name": "Espinaca",
         "thumbnail_url": "https://cdn.wikifarmer.com/wp-content/uploads/2019/05/Spinach-farming-growing-guide.jpg",
        "description": "Las espinacas son vegetales muy dóciles que se pueden plantar durante todo el año",
+       "icon" : "https://cdn-icons-png.flaticon.com/512/7217/7217826.png",
         "category_id" : "1"
       },
       {
